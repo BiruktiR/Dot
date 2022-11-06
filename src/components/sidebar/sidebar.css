@@ -7,22 +7,22 @@
 }
 
 .sidebarWrapper {
-  padding: 20px;
+  padding: 25px;
   color: orange;
 }
 
 .sidebarMenu {
-  margin-bottom: 10px;
+  margin-bottom: 18px;
 }
 
 .sidebarTitle {
-  font-size: 13px;
-  color: rgb(187, 186, 186);
+  font-size: 20px;
+  color: white;
 }
 
 .sidebarList {
   list-style: none;
-  padding: 5px;
+  padding: 8px;
 }
 
 .sidebarListItem {
